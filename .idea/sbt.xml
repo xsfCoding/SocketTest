@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherPath" value="$USER_HOME$/Downloads/safri下载/sbt/bin/sbt-launch.jar" />
+    <option name="vmParameters" value="-XX:MaxPermSize=256m" />
+  </component>
+</project>
