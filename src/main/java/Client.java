@@ -31,5 +31,8 @@ public class Client
         {
             e.printStackTrace();
         }
+
+
+        System.out.println("i just test");
     }
 }
